@@ -4,7 +4,7 @@ Nitro (formerly Model Dial) is a native macOS menu bar app for model and effort 
 and Claude Code. It supports direct shortcuts, previous/next navigation, and
 routing to the focused app. The RPM menu-bar dashboard provides quick profile selection.
 
-**[Download the latest release](https://github.com/jadhvank/model-dial-releases/releases/latest)**
+**[Download the latest release](https://github.com/jadhvank/nitro-releases/releases/latest)**
 
 Requires an Apple silicon Mac and macOS 13 or later.
 
