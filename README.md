@@ -1,8 +1,8 @@
-# Model Dial downloads
+# Nitro downloads
 
-Model Dial is a native macOS menu bar app for model and effort profiles in Codex
+Nitro (formerly Model Dial) is a native macOS menu bar app for model and effort profiles in Codex
 and Claude Code. It supports direct shortcuts, previous/next navigation, and
-routing to the focused app.
+routing to the focused app. The RPM menu-bar dashboard provides quick profile selection.
 
 **[Download the latest release](https://github.com/jadhvank/model-dial-releases/releases/latest)**
 
